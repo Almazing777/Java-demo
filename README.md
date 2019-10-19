@@ -1,2 +1,2 @@
 # Java-demo
-java repo
+This is my first repo
